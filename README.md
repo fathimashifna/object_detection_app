@@ -77,3 +77,17 @@ Video 2:
 Video 3:
     Selected object not detected - mouse
     https://github.com/fathimashifna/object_detection_app/blob/master/not_in_frame.mp4
+
+## Challenges faced
+Gradle Update Issues
+I faced challenges while updating Gradle in Android Studio. The build process failed due to version conflicts.
+
+Solution:
+I checked the error logs in Android Studio to identify the cause of the issue. Based on the logs, I was able to correct the error and successfully update Gradle.
+
+---------------------------------------------------------------------------------------------------------------------------
+Model Creation with TensorFlow
+As a beginner in machine learning, I faced challenges while creating my model using TensorFlow. I struggled with understanding how to build and train the model effectively.
+
+Solution:
+To overcome this, I referred to online tutorials that provided detailed explanations and example code. These resources helped me understand how to set up the model, prepare the data, and train the model using TensorFlow.
