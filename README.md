@@ -44,7 +44,7 @@ The following tools were used in this project:
 Example 1: Object Detection - mouse
 
 Detected Object: mouse
-Accuracy: 78%
+Accuracy: 73%
 Screenshot:
 
 Explanation: The model correctly identified the mouse in the image with a medium confidence level. The bounding box is tight around the object.
@@ -69,7 +69,10 @@ Explanation: The model not identified the Table Lamp in the image.
 ## Demonstration Video
 Video 1 :
     Selected Object detected - bottle with accuracy 74%.
+    https://github.com/fathimashifna/object_detection_app/blob/master/detected.mp4
 Video 2:
     Selected Object not available in the frame
+    https://github.com/fathimashifna/object_detection_app/blob/master/not_detected.mp4
 Video 3:
     Selected object not detected - mouse
+    https://github.com/fathimashifna/object_detection_app/blob/master/not_in_frame.mp4
