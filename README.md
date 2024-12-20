@@ -45,7 +45,7 @@ Example 1: Object Detection - mouse
 
 Detected Object: mouse
 Accuracy: 73%
-Screenshot:
+Screenshot:https://github.com/fathimashifna/object_detection_app/blob/master/mouse_medium_confidence.jpeg
 
 Explanation: The model correctly identified the mouse in the image with a medium confidence level. The bounding box is tight around the object.
 
@@ -54,14 +54,15 @@ Example 2: Object Detection - Bottle
 
 Detected Object: Bottle
 Accuracy: 49%
-Screenshot:
+Screenshot: https://github.com/fathimashifna/object_detection_app/blob/master/detected_object_image.jpeg
+https://github.com/fathimashifna/object_detection_app/blob/master/bottle_low_confidence.jpeg
 
 Explanation: The model correctly identified the bottle in the image with a lower confidence score compared to other objects it has been trained on.
 
 Example 3: Object Detection - Table Lamp
 
 Detected Object: Table Lamp
-Screenshot:
+Screenshot: https://github.com/fathimashifna/object_detection_app/blob/master/lamp_not_detected.jpeg
 
 Explanation: The model not identified the Table Lamp in the image.
 
